@@ -1,0 +1,14 @@
+E-01 = internet connection error   ==  E-01 \n Please check your internet connection.
+E-02 = Github Connection Error   ==  E-02 \n Connection Error
+E-03 = Database Connection Error == E-03 \n Connection Error 
+E-04 = Wrong UserName == Wrong username. Please enter the correct username and try again.
+E-05 = subscription has expired  == Your subscription has expired. Please contact administration at devamconsultancyindia@gmail.com to renew your plan.\nWhatsApp: 7228882088
+E-06 = MacId missmatch == This software is registered to a different PC. Please contact administration at devamconsultancyindia@gmail.com to resolve this issue.\nWhatsApp: 7228882088
+E-07 = Open Excel File == Please close the Excel file and try again. The file is currently open and cannot be modified.
+E-08 = Error to Open browser == There was an error initializing the web driver. Please try again later.
+E-09 = Not sa
+
+
+
+browser is not Open
+not get url
